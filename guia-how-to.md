@@ -45,4 +45,4 @@ Antes de iniciar, tenha certeza de que você tem:
 
 
 # Veja também 
-* (Modelo de tutorial]()
+* (Modelo de tutorial](https://github.com/emilainesantos/Technical-Writing-Alura/blob/main/tutorial.md)
